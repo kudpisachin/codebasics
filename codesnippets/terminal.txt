@@ -1,0 +1,14 @@
+sudo rm -rf /Library/Developer/CommandLineTools
+sudo xcode-select --install
+
+
+pip install --upgrade pip
+pip install jupyter  
+pip --version 
+jupyter notebook
+python -m notebook
+
+git clone https://github.com/kudpisachin/learnpython
+
+brew install python
+python --version
