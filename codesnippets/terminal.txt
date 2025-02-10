@@ -12,3 +12,5 @@ git clone https://github.com/kudpisachin/learnpython
 
 brew install python
 python --version
+
+
